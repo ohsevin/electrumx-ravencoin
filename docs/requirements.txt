@@ -1,5 +1,5 @@
 cmake==3.18.4
-aiohttp==3.7.4
+aiohttp==3.9.4
 pylru==1.2.0
 plyvel==1.3.0
 aiorpcx==0.18.7
